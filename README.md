@@ -24,4 +24,4 @@
 Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.
 
 Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.
-![alt text](https://github.com/SergeiShulga/11.02Caching/blob/main/img/04.png)
+![alt text](https://github.com/SergeiShulga/11.02Caching/blob/main/img/06.png)
